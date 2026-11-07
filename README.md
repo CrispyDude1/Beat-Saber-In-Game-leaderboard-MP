@@ -30,9 +30,7 @@ As your score increases, your projected position updates automatically.
 
 This mod is based on and edited from an existing project originally created by someone else. The original source code was used as the foundation for this version, with additional changes, features, and improvements.
 
-**Original Project:** <<PASTE ORIGINAL SOURCE LINK HERE>>
-
-Please check out the original project and give credit to its original creator.
+**Original Project Where I Got It From:** (https://github.com/PatsanMCK/InSongLeaderboard)
 
 ## Installation
 
